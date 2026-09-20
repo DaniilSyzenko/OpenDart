@@ -74,7 +74,7 @@ abstract final class CheckoutHelper {
     62: ['T10', 'D16'],
     63: ['T17', 'D6'],
     64: ['T16', 'D8'],
-    65: ['T11', 'D16'], // 'Outer' 'Bull' for future
+    65: ['T11', 'D16'],
     66: ['T10', 'D18'],
     67: ['T9', 'D20'],
     68: ['T16', 'D10'],
